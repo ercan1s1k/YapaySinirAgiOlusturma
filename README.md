@@ -1,1 +1,2 @@
 # YapaySinirAgiOlusturma
+Bu kod içerisinde yapay sinir ağı en temelden oluşturuluyor. Var olan hazır kütüphanelerdeki yapay sinir ağları kullanılmıyor. İlk bulunmuş gibi yeni oluşturuluyor. Bu yapay sinir ağı oluşturma, yapay sinir ağlarının şekli ve çalışma prensibini anlamamıza yardımcı olur. Küçük ölçekli cihazlada kullanım için de bu şekilde yapay sinir ağı istenlen şekilde ve boyutta tasarlanabilir.
